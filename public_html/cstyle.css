@@ -1,0 +1,29 @@
+.container{
+	background-color: #efefef;
+	width: 85%;
+	margin:0px auto;
+	padding: 10px;
+}
+.formcontrol{
+	width: 100%;
+	height: 36px;
+	border: 1px solid #333;
+	outline: none;
+	border-radius: 5px;
+}
+.formgroup{
+	padding: 10px 0px;
+}
+.btn{
+	padding: 10px 30px;
+	border:none;
+	background-color: blue;
+	color:#fff;
+	border-radius: 5px;
+}
+.btn:hover{
+	cursor:pointer;
+}
+.error{
+	color: red;
+}

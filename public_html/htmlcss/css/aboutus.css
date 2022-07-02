@@ -1,0 +1,44 @@
+    header {
+        width: 100%;
+    }
+    
+    body {
+        overflow-y: scroll;
+        overflow-x: hidden;
+    }
+    
+    .container {
+        margin: 0 auto;
+        width: 75%;
+        overflow: hidden;
+    }
+    
+    ul {
+        list-style-type: none;
+        padding: 0;
+        overflow: hidden;
+    }
+    
+    .navigation li {
+        float: right;
+    }
+    
+    li a {
+        display: inline;
+        padding: 8px;
+        text-decoration: none;
+    }
+    
+    .logo {
+        width: 20%;
+        float: left;
+    }
+    
+    .navigation {
+        width: 80%;
+        float: right;
+    }
+    
+    #banner-id {
+        color: tomato;
+    }
